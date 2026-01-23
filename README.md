@@ -4,7 +4,8 @@
 
 <h2 align="center">
   My name is Mark, and I'm an aspiring full-stack software developer<br/>
-  in the Greater Chicago region.
+  in the Greater Chicago region. I mainly enjoy writing code in Java and<br/>
+  React!
 </h2>
 
 # Skills
