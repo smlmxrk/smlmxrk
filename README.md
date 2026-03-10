@@ -10,5 +10,8 @@
 # Skills
 [![My Skills](https://skillicons.dev/icons?i=java,js,ts,react,tailwind,spring,next,py,postgres)](https://skillicons.dev)
 
+# Experience
+- Incoming Data Engineer Intern @ Motorola Solutions
+
 # Education
 - I'm currently a 4th year Computer Science student attending Purdue University.
